@@ -1,0 +1,10 @@
+{
+    "THRESHOLD": 0.8,
+    "STANDARD_IMAGE_PATH": "standard.jpg",
+    "REUSLT_PATH" : "camera_deviate_status.json",
+    "PING_REUSLT_PATH" : "camera_ping_status.json",
+    "FRAME_NUMBER": 100,
+    "CANNY_THRESHOLD1": 100,
+    "CANNY_THRESHOLD2": 200,
+    "SOBEL_KERNEL_SIZE": 5
+}
