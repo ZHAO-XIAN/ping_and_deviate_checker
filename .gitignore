@@ -1,0 +1,6 @@
+# 忽略 Excel 文件
+*.json
+
+一期.json
+二期.json
+三期.json
